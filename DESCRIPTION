@@ -1,0 +1,9 @@
+Package: slackr
+Title: Slack Utility Package
+Version: 0.1.0
+Authors: Aanjaney Kumar Verma
+Description: This Package acts as an SDK for slack API in R.
+License: GPL-3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3

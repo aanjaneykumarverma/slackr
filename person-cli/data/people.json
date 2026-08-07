@@ -1,0 +1,7 @@
+[
+  { "firstName": "Ada",   "lastName": "Lovelace", "SSN": "111111111" },
+  { "firstName": "Alan",  "lastName": "Turing",   "SSN": "222222222" },
+  { "firstName": "Grace", "lastName": "Hopper",   "SSN": "33333333" },
+  { "firstName": "Linus", "lastName": "Torvalds", "SSN": "444444444" },
+  { "firstName": "Bad",   "lastName": 42,          "SSN": "555555555" }
+]

@@ -1,0 +1,5 @@
+# CMake build output
+build/
+
+# Files produced at runtime
+*.invalid.json
